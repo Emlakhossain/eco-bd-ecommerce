@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "9″ Round Eco-friendly Disposable Areca  ",
+        "img": "https://i2.wp.com/brightareca.com/wp-content/uploads/2022/11/10-inch-round-eco-friendly-leaf-plate-3-Bright-Areca-Ltd.png?w=400",
+        "price": 10,
+        "discount": 2,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": " 9″ squire eco friendly areca  ",
+        "img": "https://i1.wp.com/brightareca.com/wp-content/uploads/2019/08/9-inch-square-plate-bright-areca.jpg?resize=400%2C400",
+        "price": 10,
+        "discount": 1,
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "8.4″ Heart Shaped Disposable Areca   ",
+        "img": "https://i1.wp.com/brightareca.com/wp-content/uploads/2021/06/8.4-inch-heart-shape-2-bright-areca-ltd.jpg?fit=1280%2C853",
+        "price": 10,
+        "discount": 1,
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": " Pater Bati-6inc squire ",
+        "img": "https://static-01.daraz.com.bd/p/257be2bffc188754e94a5e7a3431241a.jpg",
+        "price": 10,
+        "discount": 1,
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "name": " Pater Bati-6inc squire ",
+        "img": "https://static-01.daraz.com.bd/p/257be2bffc188754e94a5e7a3431241a.jpg",
+        "price": 10,
+        "discount": 2,
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "name": "Supari Pater Bati-6inc squire ",
+        "img": "https://static-01.daraz.com.bd/p/1d5c76c3a6d1aa426f7efbef67ed2dac.jpg",
+        "price": 10,
+        "discount": 3,
+        "rating": 5
+    },
+    {
+        "id": 7,
+        "name": "6 inc round deep bowl",
+        "img": "https://i0.wp.com/brightareca.com/wp-content/uploads/2019/12/leaf-and-eco-plates-Bright-Areca-9.jpg?fit=600%2C500",
+        "price": 10,
+        "discount": 2,
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "name": "6 inc squire eco friendly areca  ",
+        "img": "https://i1.wp.com/brightareca.com/wp-content/uploads/2018/04/6-inch-square.jpg?fit=807%2C627",
+        "price": 10,
+        "discount": 1,
+        "rating": 5
+    },
+    {
+        "id": 9,
+        "name": " 5.5 inc squire areca leaf bowl ",
+        "img": "https://i2.wp.com/brightareca.com/wp-content/uploads/2021/06/5.5-inch-square-bowl-2-Bright-Areca-Ltd.jpg?fit=1020%2C680",
+        "price": 10,
+        "discount": 1,
+        "rating": 5
+    },
+    {
+        "id": 10,
+        "name": "10 inch round eco friendly areca ",
+        "img": "https://i.ibb.co/nzgM0hY/10-inch-round-eco-friendly-leaf-plate-2-Bright-Areca-Ltd-1.png",
+        "price": 15,
+        "discount": 2,
+        "rating": 5
+    }
+]
