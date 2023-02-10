@@ -1,6 +1,12 @@
-.img {
+.card-body img {
     width: 100%;
     height: 200px;
     background-color: rgb(27, 27, 27);
 
+}
+
+.card-body:hover {
+
+    border: 1px solid gray;
+    border-radius: 4px;
 }
